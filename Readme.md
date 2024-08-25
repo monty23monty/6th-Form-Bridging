@@ -1,4 +1,4 @@
-                             # Binary to Denary Converter
+# Binary to Denary Converter
 
 ## Project Overview
 
