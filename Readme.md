@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This project involves designing, coding, testing, and evaluating a Python program that converts between binary and decimal (denary) numbers. The purpose of this project is to demonstrate two different approaches to solving the problem: using Python's built-in functions and implementing custom algorithms. The project is organized into two branches: `simple` and `complex`.
+This project involves designing, coding, testing, and evaluating a Python program that converts between binary and decimal (denary) numbers. The purpose of this project is to demonstrate two different approaches to solving the problem: using Python's built-in functions and implementing custom algorithms. The project is organised into two branches: `simple` and `complex`.
 
 ## Branches
 
 ### 1. Simple Branch
 
-The `simple` branch focuses on utilizing Python's built-in functions for converting between binary and decimal numbers. This approach is straightforward and leverages Python’s powerful standard library to achieve the desired conversions with minimal code.
+The `simple` branch focuses on utilising Python's built-in functions for converting between binary and decimal numbers. This approach is straightforward and leverages Python’s powerful standard library to achieve the desired conversions with minimal code.
 
 #### Key Functions Used:
 - **`bin()`**: Converts a decimal (integer) number to a binary string.
@@ -25,7 +25,7 @@ decimal_number = int(binary_string, 2)  # Output: 43
 
 #### Benefits:
 - **Simplicity**: The built-in functions require less code and are easy to understand.
-- **Efficiency**: These functions are optimized and perform the conversions quickly.
+- **Efficiency**: These functions are optimised and perform the conversions quickly.
 
 ### 2. Complex Branch
 
@@ -66,7 +66,7 @@ def binary_to_decimal(b):
 
 #### Benefits:
 - **Educational Value**: Provides insight into the manual process of conversion, which is valuable for understanding binary arithmetic.
-- **Customization**: Allows for more control over the conversion process, which can be modified or extended as needed.
+- **Customisation**: Allows for more control over the conversion process, which can be modified or extended as needed.
 - **Algorithmic Thinking**: Encourages thinking in terms of algorithms and problem-solving.
 - **Error Handling**: Provides the opportunity to implement custom error handling logic.
 - **Scalability**: Can be extended to handle larger numbers or additional conversion types.
@@ -94,7 +94,7 @@ Both branches have been tested with various inputs to ensure correctness. The te
 
 ### Comparison of Methods:
 - **Simplicity vs. Understanding**: The `simple` branch demonstrates the ease of using built-in Python functions, making it the best choice for quick and efficient development. However, the `complex` branch offers a detailed view of the underlying logic, which is useful for educational purposes.
-- **Performance**: The built-in functions in the `simple` branch are highly optimized and perform faster than the custom algorithms in the `complex` branch. However, for the given problem size (values up to 255), the performance difference is negligible.
+- **Performance**: The built-in functions in the `simple` branch are highly optimised and perform faster than the custom algorithms in the `complex` branch. However, for the given problem size (values up to 255), the performance difference is negligible.
 
 ### Potential Improvements:
 - **Complex Branch**:
