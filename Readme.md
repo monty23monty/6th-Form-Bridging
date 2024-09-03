@@ -113,6 +113,6 @@ Feel free to explore the two branches to see the differences in implementation, 
 
 ### How to Use
 
-1. Visit bridging.leoroberts.co.uk to access the hosted app.
+1. Visit bridging.leoroberts.uk to access the hosted app.
 2. Type a decimal into the decimal field or a binary into the binary field.
 3. The converted number will appear in the other box, you can edit and it will update real time.
